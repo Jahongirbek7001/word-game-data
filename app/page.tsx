@@ -5,7 +5,7 @@ type Option = {
   word_uzb: string;
 };
 
-type Data = {
+type Unit = {
   book_id: number;
   book_name: string;
   unit_id: number;
@@ -15,18 +15,18 @@ type Data = {
 
 export default function Home() {
 
-  const [data, setData] = useState<Data | null>(null);
+  const [data, setData] = useState<Unit[] | null>(null);
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch('/data.json')
+    fetch('/essential1.json')
       .then((response) => {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
         }
         return response.json();
       })
-      .then((jsonData: Data) => setData(jsonData))
+      .then((jsonData: Unit[]) => setData(jsonData))
       .catch((err) => setError(err.message));
   }, []);
 
@@ -35,16 +35,20 @@ export default function Home() {
 
   return (
     <main className="flex min-h-screen flex-col items-center justify-between p-24">
-      <div>
-        <h1>{data.book_name}</h1>
-        <h2>{data.unit_name}</h2>
-        <ul>
-          {data.options.map((option, index) => (
-            <li key={index}>
-              {option.word_eng} - {option.word_uzb}
-            </li>
-          ))}
-        </ul>
+      <p className=' text-2xl '>{data[0].book_name}</p>
+      <div className=' grid grid-cols-3 gap-3'>
+        {data.map((unit) => (
+          <div  className=' border-2 my-2 p-3' key={unit.unit_id}>
+            <h2>{unit.unit_name}</h2>
+            <ul>
+              {unit.options.map((option, index) => (
+                <li key={index}>
+                  {option.word_eng} - {option.word_uzb}
+                </li>
+              ))}
+            </ul>
+          </div>
+        ))}
       </div>
     </main>
   );
