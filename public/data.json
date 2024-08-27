@@ -1,0 +1,29 @@
+
+{
+    "book_id": 1,
+    "book_name": "Essential Part 1",
+    "unit_id": 1,
+    "unit_name": "Unit № 1",
+    "options": [
+        { "word_eng": "afraid", "word_uzb": "Qo'rqqan, cho'chigan" },
+        { "word_eng": "agree", "word_uzb": "Fikriga qo'shilmoq, rozi bo'lmoq" },
+        { "word_eng": "angry", "word_uzb": "Jahli chiqqan, badjahl" },
+        { "word_eng": "arrive", "word_uzb": "Yetib kelmoq, kelmoq" },
+        { "word_eng": "attack", "word_uzb": "Hujum qilmoq, hujum uyushtirmoq" },
+        { "word_eng": "bottom", "word_uzb": "Tag, pastki qism" },
+        { "word_eng": "clever", "word_uzb": "Aqlli, ziyrak" },
+        { "word_eng": "cruel", "word_uzb": "Shafqatsiz, berahm" },
+        { "word_eng": "finally", "word_uzb": "Axiyri, vanihoyat" },
+        { "word_eng": "hide", "word_uzb": "Yashirinmoq, bekinmoq" },
+        { "word_eng": "hunt", "word_uzb": "Ov qilmoq, ovlamoq" },
+        { "word_eng": "lot", "word_uzb": "Juda ko'p" },
+        { "word_eng": "middle", "word_uzb": "O'rta" },
+        { "word_eng": "moment", "word_uzb": "Sekund; on, zum" },
+        { "word_eng": "pleased", "word_uzb": "Hursand, mamnun" },
+        { "word_eng": "promise", "word_uzb": "Va'da bermoq" },
+        { "word_eng": "reply", "word_uzb": "Javob bermoq" },
+        { "word_eng": "safe", "word_uzb": "Xavfsiz, bexatar" },
+        { "word_eng": "trick", "word_uzb": "Xiyla, nayrang; fokus" },
+        { "word_eng": "well", "word_uzb": "Yaxshi" }
+    ]
+}
