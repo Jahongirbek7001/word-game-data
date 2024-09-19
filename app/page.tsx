@@ -43,7 +43,7 @@ export default function Home() {
             <ul>
               {unit.options.map((option, index) => (
                 <li key={index}>
-                  {option.word_eng}
+                  {option.word_eng} - {option.word_uzb}
                 </li>
               ))}
             </ul>
