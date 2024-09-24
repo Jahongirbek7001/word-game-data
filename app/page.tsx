@@ -3,6 +3,7 @@ import { useEffect, useState } from 'react';
 type Option = {
   word_eng: string;
   word_uzb: string;
+  sentence: string;
 };
 
 type Unit = {
@@ -38,13 +39,15 @@ export default function Home() {
       <p className=' text-2xl '>{data[0].book_name}</p>
       <div className=' grid grid-cols-3 gap-3'>
         {data.map((unit) => (
-          <div  className=' border-2 my-2 p-3' key={unit.unit_id}>
+          <div className=' border-2 my-2 p-3' key={unit.unit_id}>
             <h2>{unit.unit_name}</h2>
             <ul>
               {unit.options.map((option, index) => (
-                <li key={index}>
-                  {option.word_eng} - {option.word_uzb}
-                </li>
+                <>
+                  <li key={index}>
+                    {option.word_eng} - {option.word_uzb}
+                  </li>
+                </>
               ))}
             </ul>
           </div>

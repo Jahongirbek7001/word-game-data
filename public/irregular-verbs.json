@@ -54,7 +54,7 @@
         "id": 18, "verb1": "build", "verb2": "built", "verb3":"built", "verb-uzb": "qurmoq, barpo etmoq"
     },
     {
-        "id": 19, "verb1": "burn", "verb2": "burnt/burned", "verb3":"burnt/burned", "verb-uzb": "yonmoq"
+        "id": 19, "verb1": "write", "verb2": "wrote", "verb3":"written", "verb-uzb": "yozmoq"
     },
     {
         "id": 20, "verb1": "burst", "verb2": "burst", "verb3":"burst", "verb-uzb": "yorilmoq, yoqmoq"
@@ -367,8 +367,5 @@
     },
     {
         "id": 122, "verb1": "win", "verb2": "won", "verb3":"won", "verb-uzb": "yutmoq, g'alaba qozonmoq"
-    },
-    {
-        "id": 123, "verb1": "write", "verb2": "wrote", "verb3":"written", "verb-uzb": "yozmoq"
     }
 ]
