@@ -1,371 +1,371 @@
 [
     {
-        "id": 1, "verb1": "arise", "verb2": "arise", "verb3": "arisen", "verb-uzb": "vujudga kelmoq, paydo bo'lmoq"
+        "id": 1, "verb1": "arise", "verb2": "arise", "verb3": "arisen", "verbUzb": "vujudga kelmoq, paydo bo'lmoq"
     },
     {
-        "id": 2, "verb1": "awake", "verb2": "awoke", "verb3":"awoken", "verb-uzb": "uxlamagan, uyquga ketmagan"
+        "id": 2, "verb1": "awake", "verb2": "awoke", "verb3":"awoken", "verbUzb": "uxlamagan, uyquga ketmagan"
     },
     {
-        "id": 3, "verb1": "be", "verb2": "was/were", "verb3":"been", "verb-uzb": "bo'lmoq"
+        "id": 3, "verb1": "be", "verb2": "was/were", "verb3":"been", "verbUzb": "bo'lmoq"
     },
     {
-        "id": 4, "verb1": "bear", "verb2": "bore", "verb3":"born(e)", "verb-uzb": "chiday olmaslik"
+        "id": 4, "verb1": "bear", "verb2": "bore", "verb3":"born(e)", "verbUzb": "chiday olmaslik"
     },
     {
-        "id": 5, "verb1": "beat", "verb2": "beat", "verb3":"beaten", "verb-uzb": "g'alaba qozonmoq, yutmoq"
+        "id": 5, "verb1": "beat", "verb2": "beat", "verb3":"beaten", "verbUzb": "g'alaba qozonmoq, yutmoq"
     },
     {
-        "id": 6, "verb1": "become", "verb2": "became", "verb3":"become", "verb-uzb": "-ga aylanmoq"
+        "id": 6, "verb1": "become", "verb2": "became", "verb3":"become", "verbUzb": "-ga aylanmoq"
     },
     {
-        "id": 7, "verb1": "begin", "verb2": "began", "verb3":"begun", "verb-uzb": "boshlanmoq, boshlamoq"
+        "id": 7, "verb1": "begin", "verb2": "began", "verb3":"begun", "verbUzb": "boshlanmoq, boshlamoq"
     },
     {
-        "id": 8, "verb1": "bend", "verb2": "bent", "verb3":"bent", "verb-uzb": "egmoq, bukmoq, egilmoq"
+        "id": 8, "verb1": "bend", "verb2": "bent", "verb3":"bent", "verbUzb": "egmoq, bukmoq, egilmoq"
     },
     {
-        "id": 9, "verb1": "bet", "verb2": "bet", "verb3":"bet", "verb-uzb": "garov o'ynamoq, pul tikmoq"
+        "id": 9, "verb1": "bet", "verb2": "bet", "verb3":"bet", "verbUzb": "garov o'ynamoq, pul tikmoq"
     },
     {
-        "id": 10, "verb1": "bind", "verb2": "bound", "verb3":"bound", "verb-uzb": "bog'lamoq, tugmoq"
+        "id": 10, "verb1": "bind", "verb2": "bound", "verb3":"bound", "verbUzb": "bog'lamoq, tugmoq"
     },
     {
-        "id": 11, "verb1": "bite", "verb2": "bit", "verb3":"bitten", "verb-uzb": "tishlamoq"
+        "id": 11, "verb1": "bite", "verb2": "bit", "verb3":"bitten", "verbUzb": "tishlamoq"
     },
     {
-        "id": 12, "verb1": "bleed", "verb2": "bled", "verb3":"bled", "verb-uzb": "qonamoq"
+        "id": 12, "verb1": "bleed", "verb2": "bled", "verb3":"bled", "verbUzb": "qonamoq"
     },
     {
-        "id": 13, "verb1": "blow", "verb2": "blew", "verb3":"blown", "verb-uzb": "puflamoq, uflamoq"
+        "id": 13, "verb1": "blow", "verb2": "blew", "verb3":"blown", "verbUzb": "puflamoq, uflamoq"
     },
     {
-        "id": 14, "verb1": "break", "verb2": "broke", "verb3":"broken", "verb-uzb": "sinmoq, sindirmoq"
+        "id": 14, "verb1": "break", "verb2": "broke", "verb3":"broken", "verbUzb": "sinmoq, sindirmoq"
     },
     {
-        "id": 15, "verb1": "breed", "verb2": "bred", "verb3":"bred", "verb-uzb": "bolalamoq, ko'paymoq"
+        "id": 15, "verb1": "breed", "verb2": "bred", "verb3":"bred", "verbUzb": "bolalamoq, ko'paymoq"
     },
     {
-        "id": 16, "verb1": "bring", "verb2": "brought", "verb3":"brought", "verb-uzb": "olib ketmoq"
+        "id": 16, "verb1": "bring", "verb2": "brought", "verb3":"brought", "verbUzb": "olib ketmoq"
     },
     {
-        "id": 17, "verb1": "broadcast", "verb2": "broadcast", "verb3":"broadcast", "verb-uzb": "efirga uzatmoq"
+        "id": 17, "verb1": "broadcast", "verb2": "broadcast", "verb3":"broadcast", "verbUzb": "efirga uzatmoq"
     },
     {
-        "id": 18, "verb1": "build", "verb2": "built", "verb3":"built", "verb-uzb": "qurmoq, barpo etmoq"
+        "id": 18, "verb1": "build", "verb2": "built", "verb3":"built", "verbUzb": "qurmoq, barpo etmoq"
     },
     {
-        "id": 19, "verb1": "write", "verb2": "wrote", "verb3":"written", "verb-uzb": "yozmoq"
+        "id": 19, "verb1": "write", "verb2": "wrote", "verb3":"written", "verbUzb": "yozmoq"
     },
     {
-        "id": 20, "verb1": "burst", "verb2": "burst", "verb3":"burst", "verb-uzb": "yorilmoq, yoqmoq"
+        "id": 20, "verb1": "burst", "verb2": "burst", "verb3":"burst", "verbUzb": "yorilmoq, yoqmoq"
     },
     {
-        "id": 21, "verb1": "buy", "verb2": "bought", "verb3":"bought", "verb-uzb": "sotib olmoq, harid qilmoq"
+        "id": 21, "verb1": "buy", "verb2": "bought", "verb3":"bought", "verbUzb": "sotib olmoq, harid qilmoq"
     },
     {
-        "id": 22, "verb1": "catch", "verb2": "caught", "verb3":"caught", "verb-uzb": "tutib olmoq, ilib olmoq"
+        "id": 22, "verb1": "catch", "verb2": "caught", "verb3":"caught", "verbUzb": "tutib olmoq, ilib olmoq"
     },
     {
-        "id": 23, "verb1": "choose", "verb2": "chose", "verb3":"chosen", "verb-uzb": "tanlamoq"
+        "id": 23, "verb1": "choose", "verb2": "chose", "verb3":"chosen", "verbUzb": "tanlamoq"
     },
     {
-        "id": 24, "verb1": "cling", "verb2": "clung", "verb3":"clung", "verb-uzb": "chirmashmoq, qattiq tutmoq"
+        "id": 24, "verb1": "cling", "verb2": "clung", "verb3":"clung", "verbUzb": "chirmashmoq, qattiq tutmoq"
     },
     {
-        "id": 25, "verb1": "come", "verb2": "came", "verb3":"come", "verb-uzb": "kelmoq"
+        "id": 25, "verb1": "come", "verb2": "came", "verb3":"come", "verbUzb": "kelmoq"
     },
     {
-        "id": 26, "verb1": "cost", "verb2": "cost", "verb3":"cost", "verb-uzb": "narxi ... bo'lmoq, pul turmoq"
+        "id": 26, "verb1": "cost", "verb2": "cost", "verb3":"cost", "verbUzb": "narxi ... bo'lmoq, pul turmoq"
     },
     {
-        "id": 27, "verb1": "creep", "verb2": "crept", "verb3":"crept", "verb-uzb": "sudralmoq"
+        "id": 27, "verb1": "creep", "verb2": "crept", "verb3":"crept", "verbUzb": "sudralmoq"
     },
     {
-        "id": 28, "verb1": "cut", "verb2": "cut", "verb3":"cut", "verb-uzb": "kesmoq, qirqmoq"
+        "id": 28, "verb1": "cut", "verb2": "cut", "verb3":"cut", "verbUzb": "kesmoq, qirqmoq"
     },
     {
-        "id": 29, "verb1": "deal", "verb2": "dealt", "verb3":"dealt", "verb-uzb": "tarqatmoq, suzmoq (kartada)"
+        "id": 29, "verb1": "deal", "verb2": "dealt", "verb3":"dealt", "verbUzb": "tarqatmoq, suzmoq (kartada)"
     },
     {
-        "id": 30, "verb1": "dig", "verb2": "dug", "verb3":"dug", "verb-uzb": "kovlamoq, qazimoq"
+        "id": 30, "verb1": "dig", "verb2": "dug", "verb3":"dug", "verbUzb": "kovlamoq, qazimoq"
     },
     {
-        "id": 31, "verb1": "do", "verb2": "did", "verb3":"done", "verb-uzb": "qilmoq, bajarmoq"
+        "id": 31, "verb1": "do", "verb2": "did", "verb3":"done", "verbUzb": "qilmoq, bajarmoq"
     },
     {
-        "id": 32, "verb1": "draw", "verb2": "drew", "verb3":"drawn", "verb-uzb": "chizmoq"
+        "id": 32, "verb1": "draw", "verb2": "drew", "verb3":"drawn", "verbUzb": "chizmoq"
     },
     {
-        "id": 33, "verb1": "drink", "verb2": "drank", "verb3":"drunk", "verb-uzb": "ichmoq"
+        "id": 33, "verb1": "drink", "verb2": "drank", "verb3":"drunk", "verbUzb": "ichmoq"
     },
     {
-        "id": 34, "verb1": "drive", "verb2": "drove", "verb3":"driven", "verb-uzb": "mashina haydamoq"
+        "id": 34, "verb1": "drive", "verb2": "drove", "verb3":"driven", "verbUzb": "mashina haydamoq"
     },
     {
-        "id": 35, "verb1": "eat", "verb2": "ate", "verb3":"eaten", "verb-uzb": "yemoq, ovqatlanmoq"
+        "id": 35, "verb1": "eat", "verb2": "ate", "verb3":"eaten", "verbUzb": "yemoq, ovqatlanmoq"
     },
     {
-        "id": 36, "verb1": "fall", "verb2": "fell", "verb3":"fallen", "verb-uzb": "tushmoq, to'kilmoq"
+        "id": 36, "verb1": "fall", "verb2": "fell", "verb3":"fallen", "verbUzb": "tushmoq, to'kilmoq"
     },
     {
-        "id": 37, "verb1": "feed", "verb2": "fed", "verb3":"fed", "verb-uzb": "ovqatlantirmoq, ovqat bermoq"
+        "id": 37, "verb1": "feed", "verb2": "fed", "verb3":"fed", "verbUzb": "ovqatlantirmoq, ovqat bermoq"
     },
     {
-        "id": 38, "verb1": "feel", "verb2": "felt", "verb3":"felt", "verb-uzb": "his qilmoq, tuymoq"
+        "id": 38, "verb1": "feel", "verb2": "felt", "verb3":"felt", "verbUzb": "his qilmoq, tuymoq"
     },
     {
-        "id": 39, "verb1": "fight", "verb2": "fought", "verb3":"fought", "verb-uzb": "urushmoq, jang qilmoq"
+        "id": 39, "verb1": "fight", "verb2": "fought", "verb3":"fought", "verbUzb": "urushmoq, jang qilmoq"
     },
     {
-        "id": 40, "verb1": "find", "verb2": "found", "verb3":"found", "verb-uzb": "topmoq, topib olmoq"
+        "id": 40, "verb1": "find", "verb2": "found", "verb3":"found", "verbUzb": "topmoq, topib olmoq"
     },
     {
-        "id": 41, "verb1": "fly", "verb2": "flew", "verb3":"flown", "verb-uzb": "uchmoq, parvoz qilmoq"
+        "id": 41, "verb1": "fly", "verb2": "flew", "verb3":"flown", "verbUzb": "uchmoq, parvoz qilmoq"
     },
     {
-        "id": 42, "verb1": "forbid", "verb2": "forbade", "verb3":"forbidden", "verb-uzb": "taqiqlamoq, man qilmoq"
+        "id": 42, "verb1": "forbid", "verb2": "forbade", "verb3":"forbidden", "verbUzb": "taqiqlamoq, man qilmoq"
     },
     {
-        "id": 43, "verb1": "forget", "verb2": "forgot", "verb3":"forgotten", "verb-uzb": "unutmoq, esdan chiqarmoq"
+        "id": 43, "verb1": "forget", "verb2": "forgot", "verb3":"forgotten", "verbUzb": "unutmoq, esdan chiqarmoq"
     },
     {
-        "id": 44, "verb1": "forgive", "verb2": "forgave", "verb3":"forgiven", "verb-uzb": "kechirmoq, gunohidan o'tmoq"
+        "id": 44, "verb1": "forgive", "verb2": "forgave", "verb3":"forgiven", "verbUzb": "kechirmoq, gunohidan o'tmoq"
     },
     {
-        "id": 45, "verb1": "freeze", "verb2": "froze", "verb3":"frozen", "verb-uzb": "muzlamoq, muzlatmoq, yaxlamoq"
+        "id": 45, "verb1": "freeze", "verb2": "froze", "verb3":"frozen", "verbUzb": "muzlamoq, muzlatmoq, yaxlamoq"
     },
     {
-        "id": 46, "verb1": "get", "verb2": "got", "verb3":"got", "verb-uzb": "olmoq, qabil qilmoq"
+        "id": 46, "verb1": "get", "verb2": "got", "verb3":"got", "verbUzb": "olmoq, qabil qilmoq"
     },
     {
-        "id": 47, "verb1": "give", "verb2": "gave", "verb3":"given", "verb-uzb": "bermoq, topshirmoq"
+        "id": 47, "verb1": "give", "verb2": "gave", "verb3":"given", "verbUzb": "bermoq, topshirmoq"
     },
     {
-        "id": 48, "verb1": "go", "verb2": "went", "verb3":"gone", "verb-uzb": "bormoq, ketmoq"
+        "id": 48, "verb1": "go", "verb2": "went", "verb3":"gone", "verbUzb": "bormoq, ketmoq"
     },
     {
-        "id": 49, "verb1": "grind", "verb2": "ground", "verb3":"ground", "verb-uzb": "maydalamoq, yanchimoq"
+        "id": 49, "verb1": "grind", "verb2": "ground", "verb3":"ground", "verbUzb": "maydalamoq, yanchimoq"
     },
     {
-        "id": 49, "verb1": "grow", "verb2": "grew", "verb3":"grown", "verb-uzb": "o'moq, ko'paymoq"
+        "id": 49, "verb1": "grow", "verb2": "grew", "verb3":"grown", "verbUzb": "o'moq, ko'paymoq"
     },
     {
-        "id": 50, "verb1": "hang", "verb2": "hung", "verb3":"hung", "verb-uzb": "ilmoq, osmoq"
+        "id": 50, "verb1": "hang", "verb2": "hung", "verb3":"hung", "verbUzb": "ilmoq, osmoq"
     },
     {
-        "id": 51, "verb1": "have", "verb2": "had", "verb3":"had", "verb-uzb": "bor bo'lmoq"
+        "id": 51, "verb1": "have", "verb2": "had", "verb3":"had", "verbUzb": "bor bo'lmoq"
     },
     {
-        "id": 52, "verb1": "hear", "verb2": "heard", "verb3":"heard", "verb-uzb": "eshitmoq"
+        "id": 52, "verb1": "hear", "verb2": "heard", "verb3":"heard", "verbUzb": "eshitmoq"
     },
     {
-        "id": 53, "verb1": "hide", "verb2": "hid", "verb3":"hidden", "verb-uzb": "yashirmoq, bekitmoq"
+        "id": 53, "verb1": "hide", "verb2": "hid", "verb3":"hidden", "verbUzb": "yashirmoq, bekitmoq"
     },
     {
-        "id": 54, "verb1": "hit", "verb2": "hit", "verb3":"hit", "verb-uzb": "urmoq, zarba bermoq"
+        "id": 54, "verb1": "hit", "verb2": "hit", "verb3":"hit", "verbUzb": "urmoq, zarba bermoq"
     },
     {
-        "id": 55, "verb1": "hold", "verb2": "held", "verb3":"held", "verb-uzb": "ushlamoq, tutmoq"
+        "id": 55, "verb1": "hold", "verb2": "held", "verb3":"held", "verbUzb": "ushlamoq, tutmoq"
     },
     {
-        "id": 56, "verb1": "hurt", "verb2": "hurt", "verb3":"hurt", "verb-uzb": "og'ritmoq, og'rimoq"
+        "id": 56, "verb1": "hurt", "verb2": "hurt", "verb3":"hurt", "verbUzb": "og'ritmoq, og'rimoq"
     },
     {
-        "id": 57, "verb1": "keep", "verb2": "kept", "verb3":"kept", "verb-uzb": "ushlamoq, saqlamoq, qoldirmoq"
+        "id": 57, "verb1": "keep", "verb2": "kept", "verb3":"kept", "verbUzb": "ushlamoq, saqlamoq, qoldirmoq"
     },
     {
-        "id": 58, "verb1": "kneel", "verb2": "knelt", "verb3":"knelt", "verb-uzb": "tiz cho'kmoq, cho'kkalamoq"
+        "id": 58, "verb1": "kneel", "verb2": "knelt", "verb3":"knelt", "verbUzb": "tiz cho'kmoq, cho'kkalamoq"
     },
     {
-        "id": 59, "verb1": "know", "verb2": "knew", "verb3":"known", "verb-uzb": "bilmoq, tushunchaga ega bo'lmoq"
+        "id": 59, "verb1": "know", "verb2": "knew", "verb3":"known", "verbUzb": "bilmoq, tushunchaga ega bo'lmoq"
     },
     {
-        "id": 60, "verb1": "lay", "verb2": "laid", "verb3":"laid", "verb-uzb": "yotqizmoq"
+        "id": 60, "verb1": "lay", "verb2": "laid", "verb3":"laid", "verbUzb": "yotqizmoq"
     },
     {
-        "id": 61, "verb1": "lead", "verb2": "led", "verb3":"led", "verb-uzb": "yetaklab bormoq, yo'l ko'rsatmoq"
+        "id": 61, "verb1": "lead", "verb2": "led", "verb3":"led", "verbUzb": "yetaklab bormoq, yo'l ko'rsatmoq"
     },
     {
-        "id": 62, "verb1": "leave", "verb2": "left", "verb3":"left", "verb-uzb": "ketmoq, tark etmoq"
+        "id": 62, "verb1": "leave", "verb2": "left", "verb3":"left", "verbUzb": "ketmoq, tark etmoq"
     },
     {
-        "id": 63, "verb1": "lend", "verb2": "lent", "verb3":"lent", "verb-uzb": "berib turmoq, qarzga bermoq"
+        "id": 63, "verb1": "lend", "verb2": "lent", "verb3":"lent", "verbUzb": "berib turmoq, qarzga bermoq"
     },
     {
-        "id": 64, "verb1": "lie", "verb2": "lay", "verb3":"lain", "verb-uzb": "aldamoq, yolg'on gapirmoq"
+        "id": 64, "verb1": "lie", "verb2": "lay", "verb3":"lain", "verbUzb": "aldamoq, yolg'on gapirmoq"
     },
     {
-        "id": 65, "verb1": "light", "verb2": "lit", "verb3":"lit", "verb-uzb": "yonmoq, yoritmoq, yoqmoq"
+        "id": 65, "verb1": "light", "verb2": "lit", "verb3":"lit", "verbUzb": "yonmoq, yoritmoq, yoqmoq"
     },
     {
-        "id": 66, "verb1": "lose", "verb2": "lost", "verb3":"lost", "verb-uzb": "yo'qotmoq"
+        "id": 66, "verb1": "lose", "verb2": "lost", "verb3":"lost", "verbUzb": "yo'qotmoq"
     },
     {
-        "id": 67, "verb1": "make", "verb2": "made", "verb3":"made", "verb-uzb": "yasamoq, tayyorlamoq"
+        "id": 67, "verb1": "make", "verb2": "made", "verb3":"made", "verbUzb": "yasamoq, tayyorlamoq"
     },
     {
-        "id": 68, "verb1": "mean", "verb2": "meant", "verb3":"meant", "verb-uzb": "bildirmoq, anglatmoq"
+        "id": 68, "verb1": "mean", "verb2": "meant", "verb3":"meant", "verbUzb": "bildirmoq, anglatmoq"
     },
     {
-        "id": 69, "verb1": "meet", "verb2": "met", "verb3":"met", "verb-uzb": "uchratmoq, uchrashmoq"
+        "id": 69, "verb1": "meet", "verb2": "met", "verb3":"met", "verbUzb": "uchratmoq, uchrashmoq"
     },
     {
-        "id": 70, "verb1": "overtake", "verb2": "overtook", "verb3":"overtaken", "verb-uzb": "quvib o'tmoq, o'zib ketmoq"
+        "id": 70, "verb1": "overtake", "verb2": "overtook", "verb3":"overtaken", "verbUzb": "quvib o'tmoq, o'zib ketmoq"
     },
     {
-        "id": 71, "verb1": "pay", "verb2": "paid", "verb3":"paid", "verb-uzb": "to'lamoq, pul bermoq"
+        "id": 71, "verb1": "pay", "verb2": "paid", "verb3":"paid", "verbUzb": "to'lamoq, pul bermoq"
     },
     {
-        "id": 72, "verb1": "put", "verb2": "put", "verb3":"put", "verb-uzb": "qo'ymoq, solmoq, joylamoq"
+        "id": 72, "verb1": "put", "verb2": "put", "verb3":"put", "verbUzb": "qo'ymoq, solmoq, joylamoq"
     },
     {
-        "id": 73, "verb1": "read", "verb2": "read", "verb3":"read", "verb-uzb": "o'qimoq"
+        "id": 73, "verb1": "read", "verb2": "read", "verb3":"read", "verbUzb": "o'qimoq"
     },
     {
-        "id": 74, "verb1": "ride", "verb2": "rode", "verb3":"ridden", "verb-uzb": "minmoq"
+        "id": 74, "verb1": "ride", "verb2": "rode", "verb3":"ridden", "verbUzb": "minmoq"
     },
     {
-        "id": 75, "verb1": "ring", "verb2": "rang", "verb3":"rung", "verb-uzb": "qo'ng'iroq qilmoq"
+        "id": 75, "verb1": "ring", "verb2": "rang", "verb3":"rung", "verbUzb": "qo'ng'iroq qilmoq"
     },
     {
-        "id": 76, "verb1": "rise", "verb2": "rose", "verb3":"risen", "verb-uzb": "ko'tarilmoq, chiqmoq, balandlamoq"
+        "id": 76, "verb1": "rise", "verb2": "rose", "verb3":"risen", "verbUzb": "ko'tarilmoq, chiqmoq, balandlamoq"
     },
     {
-        "id": 77, "verb1": "run", "verb2": "ran", "verb3":"run", "verb-uzb": "yugurmoq"
+        "id": 77, "verb1": "run", "verb2": "ran", "verb3":"run", "verbUzb": "yugurmoq"
     },
     {
-        "id": 78, "verb1": "say", "verb2": "said", "verb3":"said", "verb-uzb": "demoq, aytmoq"
+        "id": 78, "verb1": "say", "verb2": "said", "verb3":"said", "verbUzb": "demoq, aytmoq"
     },
     {
-        "id": 79, "verb1": "see", "verb2": "saw", "verb3":"seen", "verb-uzb": "ko'rmoq"
+        "id": 79, "verb1": "see", "verb2": "saw", "verb3":"seen", "verbUzb": "ko'rmoq"
     },
     {
-        "id": 80, "verb1": "sell", "verb2": "sold", "verb3":"sold", "verb-uzb": "sotmoq, pullamoq"
+        "id": 80, "verb1": "sell", "verb2": "sold", "verb3":"sold", "verbUzb": "sotmoq, pullamoq"
     },
     {
-        "id": 81, "verb1": "send", "verb2": "sent", "verb3":"sent", "verb-uzb": "jo'natmoq, yubormoq"
+        "id": 81, "verb1": "send", "verb2": "sent", "verb3":"sent", "verbUzb": "jo'natmoq, yubormoq"
     },
     {
-        "id": 82, "verb1": "set", "verb2": "set", "verb3":"set", "verb-uzb": "qo'ymoq, joylamoq"
+        "id": 82, "verb1": "set", "verb2": "set", "verb3":"set", "verbUzb": "qo'ymoq, joylamoq"
     },
     {
-        "id": 83, "verb1": "shake", "verb2": "shook", "verb3":"shaken", "verb-uzb": "chayqamoq, tebratmoq"
+        "id": 83, "verb1": "shake", "verb2": "shook", "verb3":"shaken", "verbUzb": "chayqamoq, tebratmoq"
     },
     {
-        "id": 84, "verb1": "shed", "verb2": "shed", "verb3":"shed", "verb-uzb": "yo'qotmoq, qutulmoq, voz kechmoq"
+        "id": 84, "verb1": "shed", "verb2": "shed", "verb3":"shed", "verbUzb": "yo'qotmoq, qutulmoq, voz kechmoq"
     },
     {
-        "id": 85, "verb1": "shine", "verb2": "shone", "verb3":"shone", "verb-uzb": "charaqlamoq, yaraqlamoq"
+        "id": 85, "verb1": "shine", "verb2": "shone", "verb3":"shone", "verbUzb": "charaqlamoq, yaraqlamoq"
     },
     {
-        "id": 86, "verb1": "shoot", "verb2": "shot", "verb3":"shot", "verb-uzb": "o'q otmoq"
+        "id": 86, "verb1": "shoot", "verb2": "shot", "verb3":"shot", "verbUzb": "o'q otmoq"
     },
     {
-        "id": 87, "verb1": "show", "verb2": "showed", "verb3":"shown", "verb-uzb": "ko'rsatmoq, namoyish etmoq"
+        "id": 87, "verb1": "show", "verb2": "showed", "verb3":"shown", "verbUzb": "ko'rsatmoq, namoyish etmoq"
     },
     {
-        "id": 88, "verb1": "shrink", "verb2": "shrank", "verb3":"shrunk", "verb-uzb": "kichraymoq, toraymoq"
+        "id": 88, "verb1": "shrink", "verb2": "shrank", "verb3":"shrunk", "verbUzb": "kichraymoq, toraymoq"
     },
     {
-        "id": 89, "verb1": "shut", "verb2": "shut", "verb3":"shut", "verb-uzb": "yopilmoq, yopmoq"
+        "id": 89, "verb1": "shut", "verb2": "shut", "verb3":"shut", "verbUzb": "yopilmoq, yopmoq"
     },
     {
-        "id": 90, "verb1": "sing", "verb2": "sang", "verb3":"sung", "verb-uzb": "kuylamoq, qo'shiq aytmoq"
+        "id": 90, "verb1": "sing", "verb2": "sang", "verb3":"sung", "verbUzb": "kuylamoq, qo'shiq aytmoq"
     },
     {
-        "id": 91, "verb1": "sink", "verb2": "sank", "verb3":"sunk", "verb-uzb": "cho'kmoq, g'arq bo'lmoq"
+        "id": 91, "verb1": "sink", "verb2": "sank", "verb3":"sunk", "verbUzb": "cho'kmoq, g'arq bo'lmoq"
     },
     {
-        "id": 92, "verb1": "sit", "verb2": "sat", "verb3":"sat", "verb-uzb": "o'tirmoq"
+        "id": 92, "verb1": "sit", "verb2": "sat", "verb3":"sat", "verbUzb": "o'tirmoq"
     },
     {
-        "id": 93, "verb1": "sleep", "verb2": "slept", "verb3":"slept", "verb-uzb": "uxlamoq, uyquga ketmoq"
+        "id": 93, "verb1": "sleep", "verb2": "slept", "verb3":"slept", "verbUzb": "uxlamoq, uyquga ketmoq"
     },
     {
-        "id": 94, "verb1": "slide", "verb2": "slid", "verb3":"slid", "verb-uzb": "sirpanmoq, sirg'anmoq"
+        "id": 94, "verb1": "slide", "verb2": "slid", "verb3":"slid", "verbUzb": "sirpanmoq, sirg'anmoq"
     },
     {
-        "id": 95, "verb1": "smell", "verb2": "smelt", "verb3":"smelt", "verb-uzb": "hidi kelmoq, hidlamoq"
+        "id": 95, "verb1": "smell", "verb2": "smelt", "verb3":"smelt", "verbUzb": "hidi kelmoq, hidlamoq"
     },
     {
-        "id": 96, "verb1": "speak", "verb2": "spoke", "verb3":"spoken", "verb-uzb": "gaplashmoq"
+        "id": 96, "verb1": "speak", "verb2": "spoke", "verb3":"spoken", "verbUzb": "gaplashmoq"
     },
     {
-        "id": 97, "verb1": "spend", "verb2": "spent", "verb3":"spent", "verb-uzb": "sarflamoq, ishlatib yubormoq"
+        "id": 97, "verb1": "spend", "verb2": "spent", "verb3":"spent", "verbUzb": "sarflamoq, ishlatib yubormoq"
     },
     {
-        "id": 98, "verb1": "spin", "verb2": "spun", "verb3":"spun", "verb-uzb": "aylantirmoq"
+        "id": 98, "verb1": "spin", "verb2": "spun", "verb3":"spun", "verbUzb": "aylantirmoq"
     },
     {
-        "id": 99, "verb1": "spit", "verb2": "spat", "verb3":"spat", "verb-uzb": "bo'lmoq, ajratmoq"
+        "id": 99, "verb1": "spit", "verb2": "spat", "verb3":"spat", "verbUzb": "bo'lmoq, ajratmoq"
     },
     {
-        "id": 100, "verb1": "spread", "verb2": "spread", "verb3":"spread", "verb-uzb": "yoymoq"
+        "id": 100, "verb1": "spread", "verb2": "spread", "verb3":"spread", "verbUzb": "yoymoq"
     },
     {
-        "id": 101, "verb1": "stand", "verb2": "stood", "verb3":"stood", "verb-uzb": "turmoq"
+        "id": 101, "verb1": "stand", "verb2": "stood", "verb3":"stood", "verbUzb": "turmoq"
     },
     {
-        "id": 102, "verb1": "steal", "verb2": "stole", "verb3":"stole", "verb-uzb": "o'g'irlamoq, o'g'irlik qilmoq"
+        "id": 102, "verb1": "steal", "verb2": "stole", "verb3":"stole", "verbUzb": "o'g'irlamoq, o'g'irlik qilmoq"
     },
     {
-        "id": 103, "verb1": "stick", "verb2": "stuck", "verb3":"stuck", "verb-uzb": "sanchmoq, suqmoq"
+        "id": 103, "verb1": "stick", "verb2": "stuck", "verb3":"stuck", "verbUzb": "sanchmoq, suqmoq"
     },
     {
-        "id": 104, "verb1": "sting", "verb2": "stung", "verb3":"stung", "verb-uzb": "chaqmoq, achishmoq, ranjitmoq"
+        "id": 104, "verb1": "sting", "verb2": "stung", "verb3":"stung", "verbUzb": "chaqmoq, achishmoq, ranjitmoq"
     },
     {
-        "id": 105, "verb1": "stink", "verb2": "stank", "verb3":"stunk", "verb-uzb": "sasimoq, sasitmoq"
+        "id": 105, "verb1": "stink", "verb2": "stank", "verb3":"stunk", "verbUzb": "sasimoq, sasitmoq"
     },
     {
-        "id": 106, "verb1": "strike", "verb2": "struck", "verb3":"struck", "verb-uzb": "urilmoq, urmoq, urib olmoq"
+        "id": 106, "verb1": "strike", "verb2": "struck", "verb3":"struck", "verbUzb": "urilmoq, urmoq, urib olmoq"
     },
     {
-        "id": 107, "verb1": "swear", "verb2": "swore", "verb3":"sworn", "verb-uzb": "so'kinmoq, xaqoratlamoq"
+        "id": 107, "verb1": "swear", "verb2": "swore", "verb3":"sworn", "verbUzb": "so'kinmoq, xaqoratlamoq"
     },
     {
-        "id": 108, "verb1": "sweep", "verb2": "swept", "verb3":"swept", "verb-uzb": "supurmoq"
+        "id": 108, "verb1": "sweep", "verb2": "swept", "verb3":"swept", "verbUzb": "supurmoq"
     },
     {
-        "id": 109, "verb1": "swell", "verb2": "swelled", "verb3":"swollen", "verb-uzb": "shishmoq, ishmoq, qavarmoq"
+        "id": 109, "verb1": "swell", "verb2": "swelled", "verb3":"swollen", "verbUzb": "shishmoq, ishmoq, qavarmoq"
     },
     {
-        "id": 110, "verb1": "swim", "verb2": "swam", "verb3":"swum", "verb-uzb": "suzmoq"
+        "id": 110, "verb1": "swim", "verb2": "swam", "verb3":"swum", "verbUzb": "suzmoq"
     },
     {
-        "id": 111, "verb1": "swing", "verb2": "swung", "verb3":"swung", "verb-uzb": "tebranmoq, chayqalmoq"
+        "id": 111, "verb1": "swing", "verb2": "swung", "verb3":"swung", "verbUzb": "tebranmoq, chayqalmoq"
     },
     {
-        "id": 112, "verb1": "take", "verb2": "took", "verb3":"taken", "verb-uzb": "olmoq, ushlamoq"
+        "id": 112, "verb1": "take", "verb2": "took", "verb3":"taken", "verbUzb": "olmoq, ushlamoq"
     },
     {
-        "id": 113, "verb1": "teach", "verb2": "taught", "verb3":"taught", "verb-uzb": "o'qitmoq, dars bermoq"
+        "id": 113, "verb1": "teach", "verb2": "taught", "verb3":"taught", "verbUzb": "o'qitmoq, dars bermoq"
     },
     {
-        "id": 114, "verb1": "tear", "verb2": "tore", "verb3":"torn", "verb-uzb": "yirtmoq, yirtib olmoq"
+        "id": 114, "verb1": "tear", "verb2": "tore", "verb3":"torn", "verbUzb": "yirtmoq, yirtib olmoq"
     },
     {
-        "id": 115, "verb1": "tell", "verb2": "told", "verb3":"told", "verb-uzb": "aytmoq, aytib bermoq"
+        "id": 115, "verb1": "tell", "verb2": "told", "verb3":"told", "verbUzb": "aytmoq, aytib bermoq"
     },
     {
-        "id": 116, "verb1": "think", "verb2": "thought", "verb3":"thought", "verb-uzb": "o'ylamoq, fikrlamoq"
+        "id": 116, "verb1": "think", "verb2": "thought", "verb3":"thought", "verbUzb": "o'ylamoq, fikrlamoq"
     },
     {
-        "id": 117, "verb1": "throw", "verb2": "threw", "verb3":"thrown", "verb-uzb": "otmoq, irg'itmoq, uloqtirmoq"
+        "id": 117, "verb1": "throw", "verb2": "threw", "verb3":"thrown", "verbUzb": "otmoq, irg'itmoq, uloqtirmoq"
     },
     {
-        "id": 118, "verb1": "understand", "verb2": "understood", "verb3":"understood", "verb-uzb": "tushunmoq, fahmlamoq"
+        "id": 118, "verb1": "understand", "verb2": "understood", "verb3":"understood", "verbUzb": "tushunmoq, fahmlamoq"
     },
     {
-        "id": 119, "verb1": "wake", "verb2": "woke", "verb3":"woken", "verb-uzb": "uyg'onmoq"
+        "id": 119, "verb1": "wake", "verb2": "woke", "verb3":"woken", "verbUzb": "uyg'onmoq"
     },
     {
-        "id": 120, "verb1": "wear", "verb2": "wore", "verb3":"worn", "verb-uzb": "kiymoq, kiyib olmoq"
+        "id": 120, "verb1": "wear", "verb2": "wore", "verb3":"worn", "verbUzb": "kiymoq, kiyib olmoq"
     },
     {
-        "id": 121, "verb1": "weep", "verb2": "wept", "verb3":"wept", "verb-uzb": "yig'lamoq, yiringlamoq"
+        "id": 121, "verb1": "weep", "verb2": "wept", "verb3":"wept", "verbUzb": "yig'lamoq, yiringlamoq"
     },
     {
-        "id": 122, "verb1": "win", "verb2": "won", "verb3":"won", "verb-uzb": "yutmoq, g'alaba qozonmoq"
+        "id": 122, "verb1": "win", "verb2": "won", "verb3":"won", "verbUzb": "yutmoq, g'alaba qozonmoq"
     }
 ]
