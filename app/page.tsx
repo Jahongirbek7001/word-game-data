@@ -20,7 +20,7 @@ export default function Home() {
   const [error, setError] = useState<string | null>(null);
 
   useEffect(() => {
-    fetch('/essential2.json')
+    fetch('/essential4.json')
       .then((response) => {
         if (!response.ok) {
           throw new Error(`HTTP error! status: ${response.status}`);
@@ -45,7 +45,7 @@ export default function Home() {
               {unit.options.map((option, index) => (
                 <>
                   <li key={index}>
-                    {option.word_eng} - {option.word_uzb}
+                    {option.word_eng}
                   </li>
                 </>
               ))}
