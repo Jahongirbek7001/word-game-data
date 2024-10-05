@@ -9,7 +9,7 @@
         "id": 3, "verb1": "be", "verb2": "was/were", "verb3":"been", "verbUzb": "bo'lmoq"
     },
     {
-        "id": 4, "verb1": "bear", "verb2": "bore", "verb3":"born(e)", "verbUzb": "chiday olmaslik"
+        "id": 4, "verb1": "win", "verb2": "won", "verb3":"won", "verbUzb": "yutmoq, g'alaba qozonmoq"
     },
     {
         "id": 5, "verb1": "beat", "verb2": "beat", "verb3":"beaten", "verbUzb": "g'alaba qozonmoq, yutmoq"
@@ -364,8 +364,5 @@
     },
     {
         "id": 121, "verb1": "weep", "verb2": "wept", "verb3":"wept", "verbUzb": "yig'lamoq, yiringlamoq"
-    },
-    {
-        "id": 122, "verb1": "win", "verb2": "won", "verb3":"won", "verbUzb": "yutmoq, g'alaba qozonmoq"
     }
 ]
